@@ -1,0 +1,23 @@
+{
+	"name": "CAPIWARA",
+	"private": true,
+	"version": "0.1.0",
+	"license": "Apache 2.0",
+	"description": "CAPIWARA's Webpage.",
+	"author": {
+		"url": "https://vitorluizc.github.io/",
+		"name": "Vitor Cavalcanti",
+		"email": "vitorluizc@outlook.com"
+	},
+	"repository": "https://github.com/CAPIWARA/CAPIWARA.github.io.git",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "poi",
+		"build": "poi build"
+	},
+	"devDependencies": {
+		"poi": "^9.6.1",
+		"vue": "^2.5.11",
+		"vue-template-compiler": "^2.5.11"
+	}
+}

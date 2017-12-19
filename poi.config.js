@@ -5,4 +5,8 @@ module.exports = {
 		config.devtool = '#source-map'
 		return config
 	},
+
+	html: {
+		template:	'src/index.html'
+	},
 }

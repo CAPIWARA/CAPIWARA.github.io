@@ -16,8 +16,8 @@
 		"build": "poi build"
 	},
 	"devDependencies": {
-		"poi": "^9.6.1",
-		"vue": "^2.5.11",
-		"vue-template-compiler": "^2.5.11"
+		"poi": "^9.6.13",
+		"vue": "^2.5.13",
+		"vue-template-compiler": "^2.5.13"
 	}
 }
